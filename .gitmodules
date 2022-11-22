@@ -7,3 +7,6 @@
 [submodule "NPB_statistics-Frederico"]
 	path = NPB_statistics-Frederico
 	url = https://github.com/hpfred/NPB_statistics-Frederico
+[submodule "rtm-bench"]
+	path = rtm-bench
+	url = https://github.com/caizixian/rtm-bench
