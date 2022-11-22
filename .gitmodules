@@ -1,3 +1,6 @@
 [submodule "HTM-Stamp_Modified"]
 	path = HTM-Stamp_Modified
 	url = https://github.com/hpfred/HTM-Stamp_Modified
+[submodule "tcc-parcial_FredericoPA"]
+	path = tcc-parcial_FredericoPA
+	url = https://github.com/hpfred/tcc-parcial_FredericoPA
