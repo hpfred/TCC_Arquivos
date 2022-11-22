@@ -4,3 +4,6 @@
 [submodule "tcc-parcial_FredericoPA"]
 	path = tcc-parcial_FredericoPA
 	url = https://github.com/hpfred/tcc-parcial_FredericoPA
+[submodule "NPB_statistics-Frederico"]
+	path = NPB_statistics-Frederico
+	url = https://github.com/hpfred/NPB_statistics-Frederico
